@@ -1,4 +1,4 @@
-##Executive Summary
+#Executive Summary
 
 This analysis evaluates the efficacy of the FRED Retail Sales Index as a leading indicator for Walmart’s quarterly revenue. By implementing a SARIMAX framework, I achieved a Mean Absolute Percentage Error (MAPE) of 2.1%, representing a 2.6x improvement over the 5.44% baseline provided by a seasonal drift model. Notably, the model identified a statistically significant inverse relationship (p = 0.011) between the macro-economic index and Walmart’s performance, reinforcing the company's role as a defensive retail staple.
 Method & Results
